@@ -1,3 +1,17 @@
 .number {
     background-color: pink;
 }
+
+.number .three {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: green;
+}
